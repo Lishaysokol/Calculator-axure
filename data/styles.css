@@ -61,4 +61,7 @@
 }
 .form_disabled {
 }
+.high {
+  color:#FF5961;
+}
 textarea, select, input, button { outline: none; }
