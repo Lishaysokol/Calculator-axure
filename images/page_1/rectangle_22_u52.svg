@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="84px" height="52px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="109" y1="706" x2="145.244583467102" y2="769.428749924077" id="LinearGradient1398">
-      <stop id="Stop1399" stop-color="#000000" stop-opacity="0.0509803921568627" offset="0" />
-      <stop id="Stop1400" stop-color="#ffffff" stop-opacity="0.0509803921568627" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="360" y1="799" x2="396.244583467102" y2="862.428749924077" id="LinearGradient1453">
+      <stop id="Stop1454" stop-color="#000000" stop-opacity="0.0509803921568627" offset="0" />
+      <stop id="Stop1455" stop-color="#ffffff" stop-opacity="0.0509803921568627" offset="1" />
     </linearGradient>
-    <filter x="99px" y="696px" width="84px" height="52px" filterUnits="userSpaceOnUse" id="filter1401">
+    <filter x="350px" y="789px" width="84px" height="52px" filterUnits="userSpaceOnUse" id="filter1456">
       <feOffset dx="-5" dy="-5" in="SourceAlpha" result="shadowOffsetInner" />
       <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
       <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
       <feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.501960784313725 0  " in="shadowComposite" />
     </filter>
-    <g id="widget1402">
-      <image preserveAspectRatio="none" style="overflow:visible" width="74" height="42" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAqCAYAAAAUJM0rAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAT1SURBVGhD7Zq/b9NAFMf9s4DoHwBVVKkiJanUgYGxA927hZEFCQYklg4Mlag6VSxIDEWCgQEJBpZuHZHSoWMHBoYIgqrSkGTsUgmas8373t2zL06ipuVH3Thf8bi7+Nnx+/TdxbkXa6zhZOv2zDo8PCxGkVtwHKsQhvY12w6v6kPnpjC0rCiKjsIwaAvxq9HpdBrT09N1ffhMOjWovb29y75/ZcH3vYrjuEue5xbwum3/MfO/JoIk2yAILCGEbDsd0QgCsSVEsNlsft9eXFwU0mlInSq6g4PmXdd1nrmuV3Rd13IojQAoS5BYgAUDpJBSjLKLoClw1K9Tf7VUKn7Q7idqqAj39/dvu+7EC8/zFtKAsgiJxbBggMXQAEtZsBsE4aO5ueKuPmWgToySsugeZdErz/MnASjLWTRIJjAFS05FBibotUfl8uwb7d5XA6OtViOvWGyv0Vr0FFkEu2iA0jJhwQCKFnrZ0vr1stX6sTxo7XJ02yOGRNNtJCBBHAPiQVww3/dlS+vu4+vXCxvatUd9I8d0I0jvaLrJqQYbNXFmcVZxZtEa9rDfNOwBhYXb9y9VfX9iclQyaZB4gRcCoIR1fHyMsYgie7FcvrGj3aR6UkV9uvkjDwniaUjTTk8/+YnuRVHYMwW7QOE5iU5YuIifbGcRx8jLC2Cpvn2rVvtyT7tJxaDwxK0eJpPnpDyIQanMUrHDSGvVatWTTqQYFL6W4Ik7T5BYZlYBFsa27RSnpqbuaBcTlFdJnPIHyoQFg+iDsSI7pBgUvuDCIW+QTCF2Wn5icFHkLOlDChS2SsihwA55FMcO44Shf4XPn78WcVyCUvtJ+c4mSMWfAIPRaiS3kSQoYiQHYyWZxbLtKAGFnUm0YyViWPRVR7KRoLKwfZs14bsgRMAkG51R+H8siLdi0tKLOTbiw74OeZKKP9nk03aEYzqjgjaDguVRBhi5q8AcaOq10UpQKOlguyHvWYXYg8BMGLR2A8ckKNS91HZoYDjlRxwzEoWNRUgSUCgOou6FTfc8ZpUJyUwWssb8/KwsnEpQkC4OSsc8wWIoiJtjh2Ha0aPUlvIyQBGkTdORLzDKMiEhZr1nHsdNoDZlhxSDmphwdsixrtaqZL0aZSE+lRiqyMDA9NF6s9nc1oME1MzMzE9yXMUJeZiCDAnxcjE0iReZZq2bNb4YFIRaPMrMCpaybsqjIcSDuPrHKSF9areb75W3UhcoCLV4OlFwncu8yEXPLs4iE1JSKQ7gATfhONGTdMW4BxR+sEAnAZa8CAxrFsZ4k4sIjAHBFJRuSHhdQ4LvSqlU+igHhgbu1NVq9Q3XdR5jHx1lHC7lcKUivW8DpcfnofQfEWMGxTMDcBQwninx0vK2XL55X/e71JNRrFbrYJku9JrJo4rKGcZ/CfPNsma4L75H8745Dr53E1Kr9eOh7vfoxBSo1b4+oEx5RVnkmRnFFRvHwSXSu4L/P7PMTFJ9ZFEy5Rge99mHJKi/MjdXeo7BIA0VUa32bQFlZlRQedqh5T4bdB6QWAwLLZsJJgEkvahvfcLC3W9NSutUUeky8xqKgyYYE1QWZIJiMKqNIdVpuI5HgGF/y3nq6FB6p3lOGeZU6M2WiE9mf+yaSAJr0C1ukW3iifuf/ti1n1D3QkkH1Qq6mWsELBP773QvR3Qvbewn0dIU7wKM9U9lWb8Bzat/PV6QofQAAAAASUVORK5CYII=" x="109px" y="706px" />
-      <path d="M 110 726  A 19 19 0 0 1 129 707 L 163 707  A 19 19 0 0 1 182 726 L 182 728  A 19 19 0 0 1 163 747 L 129 747  A 19 19 0 0 1 110 728 L 110 726  Z " stroke-width="2" stroke="url(#LinearGradient1398)" fill="none" />
+    <g id="widget1457">
+      <image preserveAspectRatio="none" style="overflow:visible" width="74" height="42" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAqCAYAAAAUJM0rAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAT1SURBVGhD7Zq/b9NAFMf9s4DoHwBVVKkiJanUgYGxA927hZEFCQYklg4Mlag6VSxIDEWCgQEJBpZuHZHSoWMHBoYIgqrSkGTsUgmas8373t2zL06ipuVH3Thf8bi7+Nnx+/TdxbkXa6zhZOv2zDo8PCxGkVtwHKsQhvY12w6v6kPnpjC0rCiKjsIwaAvxq9HpdBrT09N1ffhMOjWovb29y75/ZcH3vYrjuEue5xbwum3/MfO/JoIk2yAILCGEbDsd0QgCsSVEsNlsft9eXFwU0mlInSq6g4PmXdd1nrmuV3Rd13IojQAoS5BYgAUDpJBSjLKLoClw1K9Tf7VUKn7Q7idqqAj39/dvu+7EC8/zFtKAsgiJxbBggMXQAEtZsBsE4aO5ueKuPmWgToySsugeZdErz/MnASjLWTRIJjAFS05FBibotUfl8uwb7d5XA6OtViOvWGyv0Vr0FFkEu2iA0jJhwQCKFnrZ0vr1stX6sTxo7XJ02yOGRNNtJCBBHAPiQVww3/dlS+vu4+vXCxvatUd9I8d0I0jvaLrJqQYbNXFmcVZxZtEa9rDfNOwBhYXb9y9VfX9iclQyaZB4gRcCoIR1fHyMsYgie7FcvrGj3aR6UkV9uvkjDwniaUjTTk8/+YnuRVHYMwW7QOE5iU5YuIifbGcRx8jLC2Cpvn2rVvtyT7tJxaDwxK0eJpPnpDyIQanMUrHDSGvVatWTTqQYFL6W4Ik7T5BYZlYBFsa27RSnpqbuaBcTlFdJnPIHyoQFg+iDsSI7pBgUvuDCIW+QTCF2Wn5icFHkLOlDChS2SsihwA55FMcO44Shf4XPn78WcVyCUvtJ+c4mSMWfAIPRaiS3kSQoYiQHYyWZxbLtKAGFnUm0YyViWPRVR7KRoLKwfZs14bsgRMAkG51R+H8siLdi0tKLOTbiw74OeZKKP9nk03aEYzqjgjaDguVRBhi5q8AcaOq10UpQKOlguyHvWYXYg8BMGLR2A8ckKNS91HZoYDjlRxwzEoWNRUgSUCgOou6FTfc8ZpUJyUwWssb8/KwsnEpQkC4OSsc8wWIoiJtjh2Ha0aPUlvIyQBGkTdORLzDKMiEhZr1nHsdNoDZlhxSDmphwdsixrtaqZL0aZSE+lRiqyMDA9NF6s9nc1oME1MzMzE9yXMUJeZiCDAnxcjE0iReZZq2bNb4YFIRaPMrMCpaybsqjIcSDuPrHKSF9areb75W3UhcoCLV4OlFwncu8yEXPLs4iE1JSKQ7gATfhONGTdMW4BxR+sEAnAZa8CAxrFsZ4k4sIjAHBFJRuSHhdQ4LvSqlU+igHhgbu1NVq9Q3XdR5jHx1lHC7lcKUivW8DpcfnofQfEWMGxTMDcBQwninx0vK2XL55X/e71JNRrFbrYJku9JrJo4rKGcZ/CfPNsma4L75H8745Dr53E1Kr9eOh7vfoxBSo1b4+oEx5RVnkmRnFFRvHwSXSu4L/P7PMTFJ9ZFEy5Rge99mHJKi/MjdXeo7BIA0VUa32bQFlZlRQedqh5T4bdB6QWAwLLZsJJgEkvahvfcLC3W9NSutUUeky8xqKgyYYE1QWZIJiMKqNIdVpuI5HgGF/y3nq6FB6p3lOGeZU6M2WiE9mf+yaSAJr0C1ukW3iifuf/ti1n1D3QkkH1Qq6mWsELBP773QvR3Qvbewn0dIU7wKM9U9lWb8Bzat/PV6QofQAAAAASUVORK5CYII=" x="360px" y="799px" />
+      <path d="M 361 819  A 19 19 0 0 1 380 800 L 414 800  A 19 19 0 0 1 433 819 L 433 821  A 19 19 0 0 1 414 840 L 380 840  A 19 19 0 0 1 361 821 L 361 819  Z " stroke-width="2" stroke="url(#LinearGradient1453)" fill="none" />
     </g>
   </defs>
-  <g transform="matrix(1 0 0 1 -99 -696 )">
-    <use xlink:href="#widget1402" filter="url(#filter1401)" />
-    <use xlink:href="#widget1402" />
+  <g transform="matrix(1 0 0 1 -350 -789 )">
+    <use xlink:href="#widget1457" filter="url(#filter1456)" />
+    <use xlink:href="#widget1457" />
   </g>
 </svg>
